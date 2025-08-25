@@ -10,6 +10,8 @@ CSS → Styling and layout
 
 JavaScript → Interactivity and logic
 
+HTML (HyperText Markup Language) is the core language for creating web pages. It uses tags and attributes to structure content like text, images, links, and tables. Every website relies on HTML as its base, with CSS for styling and JavaScript for functionality. Learning HTML is the first step in web development.
+
 ⚡ Popular Tools & Frameworks
 
 CSS: Bootstrap, Tailwind CSS
@@ -18,7 +20,6 @@ JS: React, Angular, Vue
 
 Build Tools: Vite, Webpack
 
-HTML (HyperText Markup Language) is the core language for creating web pages. It uses tags and attributes to structure content like text, images, links, and tables. Every website relies on HTML as its base, with CSS for styling and JavaScript for functionality. Learning HTML is the first step in web development.
 
 🎯 Role of a Frontend Developer
 
