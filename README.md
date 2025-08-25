@@ -2,6 +2,7 @@
 
 🌐 Frontend Development
 Frontend development is the part of web development that focuses on what users see and interact with in a browser. It’s all about creating engaging, responsive, and user-friendly interfaces.
+
 🔑 Core Technologies
 HTML → Structure of the webpage
 CSS → Styling and layout
